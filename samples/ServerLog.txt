@@ -1,0 +1,20 @@
+2026-11-02 08:00:01 INFO  Server WS2025-Module8 starting up
+2026-11-02 08:00:03 INFO  Loading configuration from C:\ProgramData\App\config.xml
+2026-11-02 08:00:04 WARN  Configuration key 'cacheSize' missing, using default 256
+2026-11-02 08:00:05 INFO  DNS Server service started
+2026-11-02 08:00:07 INFO  Active Directory Domain Services started
+2026-11-02 08:01:12 ERROR Failed to replicate with partner DC: RPC server unavailable
+2026-11-02 08:02:30 INFO  User ajohnson logged on from 10.0.0.15
+2026-11-02 08:05:44 INFO  User bsmith logged on from 10.0.0.22
+2026-11-02 08:06:10 WARN  Disk C: free space below 20 percent
+2026-11-02 08:10:01 ERROR Backup job 'Nightly' failed: destination not found
+2026-11-02 08:15:23 INFO  User cbrown logged on from 10.0.0.31
+2026-11-02 08:20:00 INFO  Windows Update check completed: 0 updates available
+2026-11-02 08:25:47 ERROR Login failed for user dwhite: password expired
+2026-11-02 08:26:15 INFO  User dwhite changed password
+2026-11-02 08:26:20 INFO  User dwhite logged on from 10.0.0.40
+2026-11-02 08:30:00 WARN  Certificate for ldaps expires in 14 days
+2026-11-02 08:45:12 INFO  Scheduled task 'Cleanup' completed
+2026-11-02 09:00:00 ERROR Service 'PrintSpooler' stopped unexpectedly
+2026-11-02 09:00:05 INFO  Service 'PrintSpooler' restarted
+2026-11-02 09:15:30 INFO  Heartbeat OK
